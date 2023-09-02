@@ -20,4 +20,9 @@
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NEIMAN-AI/TeamNeiman-HackBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚡𝗜𝗳+𝗔𝗻𝘆+𝗘𝗿𝗿𝗼𝗿+𝗧𝗵𝗲𝗻+𝗦𝗲𝗻𝗱+𝗘𝗿𝗿𝗼𝗿+𝗜𝗻+𝗡𝗲𝗶𝗺𝗮𝗻+𝐃𝐦+...">
+<p align="center">
+<a href="https://telegram.me/ll_SILENT_l_ll"><img src="https://img.shields.io/badge/-☆𝗗𝗺 𝗧𝗼 𝗡𝗲𝗶𝗺𝗮𝗻%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
   
