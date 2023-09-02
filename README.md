@@ -25,4 +25,17 @@
 <p align="center">
 <a href="https://telegram.me/ll_SILENT_l_ll"><img src="https://img.shields.io/badge/-𝗗𝗺 𝗧𝗼 𝗡𝗲𝗶𝗺𝗮𝗻%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
-  
+ ━━━━━━━━━━━━━━━━━━━━
+
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://telegram.me/Neiman_X_Support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://telegram.me/DETECTED_09"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+ 
