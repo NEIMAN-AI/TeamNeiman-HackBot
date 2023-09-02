@@ -13,6 +13,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚡𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚡">
 
+## Deploy To Heroku
+- Get All The Necessary Variables And Deploy To Heroku.
+- Some Mandatory Variables Are listed [Here](#Variables).
+- Fork & Star this repo.
+- Click on below button to access deploy page.
+- NOTE: Click on deploy button from your fork only.
+
+------
+
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
